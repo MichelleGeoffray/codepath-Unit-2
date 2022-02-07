@@ -2,7 +2,7 @@
 
 This is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/78234140/152721591-438ade32-c2a7-4723-bd61-93f6f79a05b9.gif)
